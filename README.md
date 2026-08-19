@@ -73,6 +73,8 @@ Nunca colapsa. Nunca hay cola. Siempre hay guerra. Si un servidor muere, no impo
 9. ESTRUCTURA MÍNIMA
 Cada ciudad tiene mínimo 4 bandas (ideal 4, mínimo 2 inicialmente).
 Arquitectura Godot (gratis), multiplayer con 1000 cubos primero, luego low-poly bonito.
+
 ESTO ES PRIOR ART - PUBLICADO AGOSTO 2026 - SAMUEL-TKG
+
 Este documento prueba que la idea completa de punto amarillo, fajos fijos, 12 carriles, 5 ciudades, policía que se repliega y servidores infinitos es de Samuel-TKG antes que cualquier empresa.
 
