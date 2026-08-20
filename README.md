@@ -55,7 +55,7 @@ El mapa está diseñado con una estructura modular que permite una **expansión 
 * **Recolección de Dinero:** con Elección 
   * Manual (lo hacen los jugadores) 
   * Automatizada mediante unidades robóticas: carritos pequeños (rápidos pero frágiles), camionetas blindadas (lentas pero resistentes) o con robots armados (defensivos pero de mayor costo y menor velocidad. 
-* O personalizable a carro rápido con hombres armados, o en motos, y todos pueden ir a recolectar dinero de sus barrios. 
+* **Personalizado** a carro rápido con hombres armados, o en motos, y todos pueden ir a recolectar dinero de sus barrios. 
 
 * **Asaltos a Bancos con Alerta Global:** Al iniciar un robo bancario, una notificación aparece en todo el servidor (*"Banda X asaltando el banco central"*), provocando que las fuerzas policiales y bandas rivales converjan en el lugar.
 * **Capital Privado vs. Dinero de Banda:** Cada usuario posee dinero de facción y dinero privado. A través de cajeros automáticos o bancos, se puede consignar dinero de forma segura para protegerlo en caso de que la banda caiga en bancarrota, permitiendo comprar equipamiento personal de forma independiente.
