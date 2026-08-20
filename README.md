@@ -17,7 +17,7 @@ Este proyecto nace bajo la premisa de rechazar el bloatware visual de la industr
 
 ## 2. Core Loop: Guerra Continua y Respawn Instantáneo
 * **Cero Esperas:** Si mueres, **no hay pantallas de carga ni tiempos muertos**. 
-* **Respawn Inmediato:** Te abaten en medio de la refriega, apareces instantáneamente en tu casa capital y vuelves al combate. La guerra es infinita y constante. La capital se puede mover a otros territorios cada 60 segundos, la policía no puede hacerlo ya que tiene su gran edifico en la mitad de cada ciudad. 
+* **Respawn Inmediato:** Te abaten en medio de la refriega, apareces instantáneamente en tu casa capital y vuelves al combate. La guerra es infinita y constante.
 
 ---
 
@@ -37,7 +37,8 @@ El mapa está diseñado con una estructura modular que permite una **expansión 
 ## 4. Facciones, Bandas y Sistema Policial Dinámico
 
 ### Bandas y Respawn Táctico
-* **Casas Capitales Móviles:** Las bandas pueden reubicar su casa de respawn cada 60 segundos por estrategia táctica.
+* **Casas Capitales Móviles:** Las bandas pueden reubicar su casa de respawn cada 60 segundos por estrategia táctica. La policía no puede hacerlo ya que tiene su gran edifico en la mitad de cada ciudad.  
+
 * **Destrucción de Facciones:** Si una banda pierde su capital, todo su dinero acumulado pasa a manos de la facción vencedora. Los miembros derrotados tienen un margen de 10 segundos para elegir un nuevo bando. Si pasa el tiempo sin elegir, el sistema los reasigna automáticamente a la policía o a otra banda con espacio.
 
 ### La Policía (Facción de Élite Escalable)
