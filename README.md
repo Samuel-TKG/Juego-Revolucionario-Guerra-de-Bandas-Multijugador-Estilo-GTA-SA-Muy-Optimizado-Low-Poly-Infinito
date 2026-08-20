@@ -1,157 +1,79 @@
-GUERRA DE BANDAS INFINITA - BIBLIA TÉCNICA COMPLETA
+# GUERRA DE BANDAS INFINITA - BIBLIA TÉCNICA COMPLETA
 
-Fundador: Samuel Morales Quintero (Samuel-TKG) - Medellín, Agosto 2026
-
-Licencia: AGPL-3.0 - Proyecto Inmortal Open Source - Prior Art
-
-1000 Jugadores Online - Estilo GTA San Andreas - Low-Poly Optimizado
-
-1. MANIFIESTO: OPTIMIZACIÓN TOTAL, CERO BASURA
-Este juego nace porque GTA, Fortnite y Free Fire nos estafan. Nos venden humo con física y 500 partículas por explosión para que compres una RTX 5090.
-
-Nosotros decimos:
-
-Una explosión es un PUNTO AMARILLO. El cerebro entiende que explotó. Lo demás es basura y consume FPS.
-
-El humo no existe. Si hay humo, es basura. Se quita.
-Geometría Funcional: Si no sirve para pelear, conquistar o robar, no existe. Sin mochilas, sin palitos de queso en la espalda que gastan polígonos. Personaje flaquito, legibles, cada banda con su color característico, inicialmente cubiertos de ropa del mismo color, gorra, buso, pantalón y zapatos del mismo color, tapabocas o estilo pañoleta ganster del mismo color de la banda, guantes. con posibilidad de qué computadores con menos rendimiento puedan jugar en servidores con personajes más simples todavía que ni siquiera tengan una cara ni manos de color piel 
-Debe correr en una tostadora. Si no corre en un celular del 2019, es basura. Si corre ahí, corre en 1000.
-
-Manejo de carros y motos, vehículos fluidos, camionetas y carros con torretas. 
-
-2. EL CORE LOOP QUE NADIE TIENE: RESPAWN INSTANTÁNEO, GUERRA CONTINUA
-CORRECCIÓN FUNDAMENTAL: Si mueres, NO te vas. NO esperas 10 segundos.
-
-MUERTE = RESPAWN INSTANTÁNEO. CERO ESPERA.
-
-Te matan en la autopista de 12 carriles, apareces inmediatamente en tu casa capital y sigues disparando. La guerra es continua, indefinida, infinita. Nadie mira pantallas de carga. Todos disparan siempre.
-
-3. EL MAPA REAL: 5 CIUDADES Grandes atravesadas por una autopista de 12 carriles, 4 citys en las esquinas una en la mitad, pueblos alrededor de todas las ciudades y desvíos de carreteras hacia los pueblos 
-
-El mapa totalmente expandible, la idea es tener infinidad de expansión, que la cantidad de ciudades y jugadores solo dependa de la capacidad de rendimiento de los equipos, pc y Android. 
-
-Como mapa base:
-
-5 Ciudades Grandes estilo GTA San Andreas: 4 en las esquinas del mapa + 1 CIUDAD en la mitad sin un mar, solo terreno en todo el mapa con autopistas para ir que fluya el tráfico de uugadoresby NPC entre todas las ciudades. Cada ciudad es grande, con calles, con interioresby calles de 4 carriles, pero en diseño simple, low-poly, para máximo rendimiento.
-
-Pueblitos alrededor: Alrededor de esas 5 ciudades hay pueblos pequeños low-poly (100 polígonos por casa). Si una facción es destruida puede ser enviada por completo a una esquina del mapa, que tengan que correr hacia el pueblo más cercano o la ciudad, o si tienen dinero compras carros, camionetas, armas. 
-
-Para acumular dinero propio debes ir a cajeros a consignarlo a tu cuenta. 
-
-Cuando una banda es destruida todo el dinero que tenían en su capital o base capital o casa capital o casa de respawn se deposita en el dinero global de la facción O banda que tomó o destruyó esa facción y la facción queda totalmente desarmada pero tienen la posibilidad de reagruparse y volver a crear la misma banda o cada miembro puede crear la bandabo facción que quiera, y algo muy importante es que debe haber un mínimo de policías en cada ciudad y en la globalidad del mapa como jugadores reales y si ese mínimo de policías no está cubierto entonces los que elijan más rápido bandas podrán irse hacia una banda pero los que se demoren más quedarán totalmente obligados a elegir la policía o directamente serán elegidos automáticamente después de 10 segundos que es el tiempo máximo que tendrán para elegir un nuevo equipo más no significa que deben esperar los 10 segundos para reaparecer sino que tienen esos 10 segundos como margen para elegir banda rápidamente y si no eliges banda se hace serás asignado inmediatamente a la policía o a otra banda o facción pero cuando seas asignado a una banda podrás unirte a otra que tenga espacio o crear tu propia banda si así lo quieres. 
-
-Consume poco y da profundidad.
-
-La Autopista de 12 Carriles: El cuadrado que conecta las 5 ciudades. Zona principal de guerra, sin semáforos, tráfico masivo low-poly de colores (morado, amarillo, verde, azul), helicópteros con disco borroso.
-Servidores Escalables para PCs Chiviados:
-
-Servidor NASA: 5 ciudades + pueblitos (para PC gamer)
-Servidor Medio: 2-3 ciudades
-Servidor Tostadora: 1 sola ciudad de guerra total. Y aún así, esa sola ciudad es más profunda que todo Free Fire, porque tiene economía, territorios y policía.
-4. NPCS / ROBOTS PARA FARMEO (COMO GTA SAN ANDREAS)
-Calles con NPCs caminando.
-
-Las bandas pueden pegarle a un NPC, no pasa mucho si es solo pelear.
-Las bandas pueden MATAR a un NPC y robarle dinero y armas. Es una forma de farmear.
-Si matas a un NPC delante de la policía, la policía se te va encima inmediatamente. Si solo le pegas, la policía no hace nada. Como en la vida real.
-5. SISTEMA DE POLICÍA: LA FACCIÓN MÁS PODEROSA Y ESCALABLE (CORRECCIÓN A LO DE 995 POLICÍAS)
-Yo dije una burrada de 995 policías si hay 5 jugadores. FALSO.
-
-La policía tiene un número FIJO y poderoso por ciudad. Máximo 50% de la población del servidor puede ser policía. Se divide entre las 4-5 ciudades. Cada ciudad tiene su Gobernación / Capital Policial en el centro, fija, NO se puede mover.
-Sistema de Robo de Banco Escalable:
-Si UNA sola persona de una banda roba un banco, la policía persigue solo a ESA persona.
-Si esa persona lleva el dinero a su base o toda su banda lo ayuda a escapar, la persecución escala a TODA LA BANDA.
-Sistema de Expulsión ÉPICO:
-Las bandas pueden eliminar por completo a la policía de su ciudad. ¿La policía desaparece? NO.
-Se repliega y se divide entre las 3 ciudades que quedan. Ahora esas 3 ciudades tienen más policías, más concentrados, más difíciles de eliminar.
-Si logran unirse todas las bandas y sacar a la policía de las 5 ciudades, la policía es expulsada al borde completo del mapa, a los pueblitos, solo con pistolas, humillada. Desde ahí tienen que ir a pie a reconquistar la ciudad más cercana. ¡Cine!
-6. SISTEMA DE TERRITORIOS Y ECONOMÍA: 100% INTUITIVO
-Cada barrio tiene un punto central. Llegas al centro del barrio, resistes 60 segundos, y el barrio se vuelve tuyo o de la policía. Todo marcado en el mapa.
-La policía TAMBIÉN domina territorios y va recolectando dinero de sus barrios. Por eso la policía siempre quiere eliminar a todas las bandas, aunque estén quietas. Es una guerra por dinero.
-Recolección de Dinero Automática con Riesgo:
-Puedes ir tú a pie a recoger el dinero de tus barrios.
-O automatizarlo: mandas robots en un carrito.
-Carrito pequeño: Va rápido, pero si le disparan explota fácil.
-Carro blindado: Va lento, pero aguanta balas.
-Robots con pistola: Te defienden, pero cobran más y van más lento.
-Cada opción tiene ventaja/desventaja.
-Asalto a Bancos con Noticias:
-Cuando una banda va a asaltar un banco, sale en las noticias de TODO el servidor: "Banda morada asaltando banco central".
-Todas las bandas corren: unas a ayudar a la policía, otras a robarle a la banda que está robando. Si logran llevar el dinero a su base, esa banda se vuelve riquísima y compra armas/carros para todos.
-7. CAPITALES Y DINERO PRIVADO
-Policía NO puede cambiar su capital. Siempre en el centro de la ciudad.
-Bandas SÍ pueden cambiar su casa capital / casa de respawn cada 60 segundos. Es táctico.
-Cuenta Bancaria Privada: Cada miembro tiene dinero de banda y dinero privado. Vas a cualquier cajero o entras al banco, consignas, y ese dinero queda blindado, privado. Arriba ves "Dinero Banda: $0 / Dinero Privado: $5000". Si la banda está en ruina o exiliada en un pueblo, puedes comprar tu propia arma con tu plata privada. Lo mismo le toca a la policía exiliada.
-8. SERVIDORES INFINITOS QUE NADIE POSEA (LA CLAVE DE LA INMORTALIDAD)
-El servidor no es de nadie. Es como un enjambre.
-
-Entras, juegas 1 hora, conquistas 3 barrios de la banda morada.
-Te vas a comer. Ese territorio que conquistaste SE QUEDA ahí, en ESE servidor, peleando solo.
-Vuelves 2 horas después. Ese servidor ya está lleno con 1000 personas. El sistema no te dice "lleno, espera". Te manda automáticamente a un servidor nuevo que se acaba de crear, limpio, con 0% conquistado, para que vuelvas a empezar la conquista desde cero con miles de personas nuevas.
-Cuando ese servidor 2 se llena, se crea el servidor 3. Y el 4. Y el 1000. Infinitos servidores creados por la propia comunidad open source.
-Nunca colapsa. Nunca hay cola. Siempre hay guerra. Si un servidor muere, no importa, porque hay 500 más vivos.
-9. ESTRUCTURA MÍNIMA
-Cada ciudad tiene mínimo 4 bandas (ideal 4, mínimo 2 inicialmente).
-Arquitectura Godot (gratis), multiplayer con 1000 cubos primero, luego low-poly bonito.
-
-ESTO ES PRIOR ART - PUBLICADO AGOSTO 2026 - SAMUEL-TKG
-
-Este documento prueba que la idea completa de punto amarillo, fajos fijos, 12 carriles, 5 ciudades, policía que se repliega y servidores infinitos es de Samuel-TKG antes que cualquier empresa.
-
-# Proyecto de Juego Multijugador Masivo de Mundo Abierto en Bajo Poligonaje (Low-Poly)
-
-## Resumen Ejecutivo
-Un juego multijugador de acción en mundo abierto diseñado para un rendimiento extremo y alta densidad de jugadores (desde 100 en hardware de bajos recursos hasta más de 1,000 jugadores en entornos dedicados). Inspirado en la escala de GTA San Andreas y la estética de bajo poligonaje (low-poly), el juego prioriza la claridad visual táctica, la optimización de red y la jugabilidad de respuesta instantánea por encima del exceso gráfico.
+**Fundador:** Samuel Morales Quintero (Samuel-TKG) - Medellín, Agosto 2026  
+**Licencia:** AGPL-3.0 - Proyecto Inmortal Open Source - Prior Art  
+**Objetivo:** 1000+ Jugadores Online | Estilo GTA San Andreas | Low-Optimizado  
 
 ---
 
-## Fundamentos Técnicos y Reglas de Optimización
-
-### 1. Efectos Visuales Minimalistas y Ciclo de Destrucción
-* **Eliminación instantánea de entidades:** Los vehículos y jugadores no dejan escombros persistentes, estelas de humo ni animaciones largas de fuego al ser destruidos.
-* **Vaporización en punto de luz:** Al ser destruidos o morir, las entidades se encogen instantáneamente hasta convertirse en un punto o estrella de luz pequeña y temporal, desapareciendo de inmediato.
-* **Cero sobrecarga de colisiones:** Los elementos destruidos dejan de existir en la memoria, manteniendo en cero los cálculos de colisión en la CPU/GPU para los objetos inactivos.
-
-### 2. Reducción de Interfaz (UI) y Sobreimpresión (Overdraw)
-* **Sin nombres flotantes:** Los nombres de los jugadores sobre las cabezas se eliminan por completo. Esto ahorra pasadas sustanciales de renderizado de interfaz (overdraw) y evita la saturación visual en pantalla cuando cientos de jugadores se alinean.
-* **Identificación visual instantánea:** Los colores de las facciones reemplazan por completo los indicadores de interfaz para una toma de decisiones de combate sin latencia.
-
-### 3. Escalado Progresivo de Recursos (Niveles de Hardware)
-* **Nivel de recursos bajos (Modo Alien):** Modelos renderizados con colores puros y sólidos (una sola pasada de material/malla) y cero texturas para maximizar el rendimiento de la VRAM y la instanciación de la GPU.
-* **Nivel Medio/Alto:** Los modelos incorporan tonos de piel expuestos (cara/manos) manteniendo atuendos 100% del color de la facción (gorra, camisa, pantalón, zapatos).
+## 1. Manifiesto: Optimización Total, Cero Basura
+Este proyecto nace bajo la premisa de rechazar el bloatware visual de la industria actual. 
+* **Cero partículas innecesarias:** Una explosión es un **punto de luz amarillo**. El cerebro procesa el impacto al instante; el humo, las chispas masivas y los escombros flotantes solo queman FPS.
+* **Geometría Funcional:** Si un elemento no sirve para pelear, conquistar o moverse, no existe. Cero mochilas o accesorios de relleno.
+* **Modelos Legibles (Modo Alien y Progresivo):** Personajes flaquitos y limpios. Cada banda lleva un color fijo e inconfundible (gorra, buzo, pantalón, zapatos, tapabocas/pañoleta gánster y guantes del mismo tono). Los equipos de menores recursos pueden usar versiones puramente sólidas sin texturas ni detalles de piel, maximizando el rendimiento del GPU Instancing.
+* **Requisito de Rendimiento:** Debe correr fluidamente en una "tostadora" o en un celular de gama baja de 2019. Si corre ahí, soporta los 1,000 jugadores en red.
 
 ---
 
-## Diseño de Jugabilidad e Identidad Visual
-
-### 1. Uniformidad de Facciones
-* **Colores de facción fijos:** Cada miembro de una facción viste exactamente el mismo esquema de color (ej. todos amarillos, todos morados, todos azules).
-* **NPCs/Civiles neutrales:** Las entidades que no son jugadores (policías, ciudadanos) visten combinaciones de ropa neutrales (ej. camisa naranja con pantalón negro) para distinguirse de inmediato como objetivos que no pertenecen a las facciones.
-* **Vehículos:** Los vehículos de las facciones siguen esquemas de colores sólidos o característicos idénticos.
-
-### 2. Caída de Objetos y Botín (Loot)
-* **Colocación física en el suelo:** Los jugadores derrotados tiran las armas y el dinero directamente planos sobre el suelo.
-* **Recursos estáticos:** Las caídas permanecen estáticas sin animaciones de flotación o rotación para evitar ciclos de CPU innecesarios.
+## 2. Core Loop: Guerra Continua y Respawn Instantáneo
+* **Cero Esperas:** Si mueres, **no hay pantallas de carga ni tiempos muertos**. 
+* **Respawn Inmediato:** Te abaten en medio de la refriega, apareces instantáneamente en tu casa capital y vuelves al combate. La guerra es infinita y constante.
 
 ---
 
-## Arquitectura del Mapa del Mundo
+## 3. Arquitectura del Mundo y Escalabilidad Infinita
+El mapa está diseñado con una estructura modular que permite una **expansión infinita**, donde la cantidad de ciudades y jugadores depende exclusivamente de la capacidad del hardware (tanto en PC como en Android):
 
-* **5 Islas y ciudades conectadas:** Masas de tierra distintas conectadas por pueblos y zonas rurales circundantes.
-* **Autopista central principal:** Una autopista central de 12 carriles que conecta todas las zonas urbanas principales, diseñada específicamente para encuentros masivos de vehículos y combate.
+* **Mapa Base (Estándar):** 5 Grandes Ciudades estilo *GTA San Andreas* (4 ubicadas en las esquinas del mapa y 1 central), interconectadas por una red de calles de 4 carriles y zonas rurales con pueblitos de bajo poligonaje (aproximadamente 100 polígonos por casa).
+* **La Autopista de 12 Carriles:** El eje central que une las zonas urbanas. Es la zona de guerra principal para vehículos rápidos (carros, motos y camionetas con torretas), sin semáforos y con tráfico masivo de colores.
+* **Escalabilidad Dinámica por Hardware:**
+  * **Servidor Tostadora:** 1 sola ciudad compacta de guerra total (con economía, territorios y policía).
+  * **Servidor Medio:** 2 a 3 ciudades conectadas.
+  * **Servidor NASA (PC Gamer):** Las 5 ciudades completas + pueblitos periféricos y expansión ilimitada.
+* **Arquitectura de Servidores en Enjambre (Servidores Infinitos):** El mundo persiste de forma independiente. Si entras, conquistas barrios y te vas, ese territorio sigue activo en el servidor. Cuando un servidor alcanza su límite de 1,000 jugadores, el sistema crea automáticamente un servidor nuevo y limpio con 0% conquistado, evitando colas y asegurando que siempre haya una guerra fresca.
 
 ---
 
-## Hoja de Ruta del Proyecto
+## 4. Facciones, Bandas y Sistema Policial Dinámico
 
-### Fase 1: Núcleo de Un Jugador (Base Offline)
-- [ ] Implementar el movimiento del jugador, físicas de motocicletas basadas en vectores y mecánicas en tercera/primera persona en el motor Godot.
-- [ ] Desarrollar una IA básica para la respuesta policial y las interacciones con civiles.
-- [ ] Construir mecánicas de economía local (robo de dinero en efectivo, compras en tiendas y cajeros automáticos interactivos conectados a archivos de bases de datos locales).
+### Bandas y Respawn Táctico
+* **Casas Capitales Móviles:** Las bandas pueden reubicar su casa de respawn cada 60 segundos por estrategia táctica.
+* **Destrucción de Facciones:** Si una banda pierde su capital, todo su dinero acumulado pasa a manos de la facción vencedora. Los miembros derrotados tienen un margen de 10 segundos para elegir un nuevo bando. Si pasa el tiempo sin elegir, el sistema los reasigna automáticamente a la policía o a otra banda con espacio.
+
+### La Policía (Facción de Élite Escalable)
+* **Población Controlada:** Ocupa un máximo fijo del 50% de la población del servidor, dividida entre las ciudades con una Gobernación / Capital Policial fija en el centro.
+* **Persecución Progresiva:** Si un miembro roba un banco, la policía persigue inicialmente solo a ese individuo; si logra escapar a su base con el botín, la persecución escala a toda la banda.
+* **Sistema de Expulsión Épico:** Si las bandas logran limpiar de policías una ciudad, la policía **no desaparece**: se repliega y concentra en las ciudades restantes, haciéndolas más peligrosas. Si las bandas logran expulsar a la policía de las 5 ciudades, esta es exiliada a los pueblitos del borde del mapa con equipamiento básico, obligándolos a reconquistar el terreno a pie.
+
+---
+
+## 5. Economía, Territorios y Logística
+* **Conquista de Barrios:** Cada barrio tiene un punto central. Mantenerse allí durante 60 segundos otorga el control del territorio (tanto para bandas como para la policía).
+* **Recolección de Dinero:** 
+  * Manual (ir a pie).
+  * Automatizada mediante unidades robóticas: carritos pequeños (rápidos pero frágiles), camionetas blindadas (lentas pero resistentes) o robots armados (defensivos pero de mayor costo y menor velocidad).
+* **Asaltos a Bancos con Alerta Global:** Al iniciar un robo bancario, una notificación aparece en todo el servidor (*"Banda X asaltando el banco central"*), provocando que las fuerzas policiales y bandas rivales converjan en el lugar.
+* **Capital Privado vs. Dinero de Banda:** Cada usuario posee dinero de facción y dinero privado. A través de cajeros automáticos o bancos, se puede consignar dinero de forma segura para protegerlo en caso de que la banda caiga en bancarrota, permitiendo comprar equipamiento personal de forma independiente.
+
+---
+
+## 6. NPCs, Farmeo y Combate
+* **Transeúntes (NPCs):** Calles habitadas por ciudadanos y policías de patrulla. 
+* **Regla de Interacción:** Golpear a un NPC no genera repercusiones policiales mayores. Matarlo permite farmear dinero y armas directamente, lo que activa inmediatamente la respuesta letal de la policía cercana.
+
+---
+
+## 7. Hoja de Ruta del Desarrollo (Godot Engine)
+
+### Fase 1: Núcleo Single-Player (Offline Baseline)
+- [ ] Implementar movimiento, físicas de vehículos basadas en vectores y cámara en primera/tercera persona.
+- [ ] Desarrollar la inteligencia artificial básica de NPCs y patrullaje policial.
+- [ ] Construir la economía local (cajeros interactivos, tiendas y persistencia en archivos locales).
 
 ### Fase 2: Red y Multijugador Escalable
-- [ ] Integrar protocolos de red UDP ligeros.
-- [ ] Implementar filtrado del lado del servidor para grupos de jugadores de alta densidad en la autopista de 12 carriles.
-- [ ] Realizar pruebas de estrés de rendimiento en entornos de hardware de doble núcleo de bajos recursos.
+- [ ] Integración de protocolos de red UDP ligeros y eficientes.
+- [ ] Implementación de filtrado y culling del lado del servidor para soportar alta densidad en la autopista de 12 carriles.
+- [ ] Pruebas de estrés y rendimiento en entornos de hardware de bajos recursos.
 
-
+---
+*ESTO ES PRIOR ART - PUBLICADO AGOSTO 2026 - SAMUEL-TKG*
