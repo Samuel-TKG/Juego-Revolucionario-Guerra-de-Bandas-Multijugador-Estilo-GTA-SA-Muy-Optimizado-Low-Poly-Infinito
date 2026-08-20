@@ -14,8 +14,10 @@ Nosotros decimos:
 Una explosión es un PUNTO AMARILLO. El cerebro entiende que explotó. Lo demás es basura y consume FPS.
 
 El humo no existe. Si hay humo, es basura. Se quita.
-Geometría Funcional: Si no sirve para pelear, conquistar o robar, no existe. Sin mochilas, sin palitos de queso en la espalda que gastan polígonos. Personaje flaquito, legible, como el que te gustó.
+Geometría Funcional: Si no sirve para pelear, conquistar o robar, no existe. Sin mochilas, sin palitos de queso en la espalda que gastan polígonos. Personaje flaquito, legibles, cada banda con su color característico, inicialmente cubiertos de ropa del mismo color, gorra, buso, pantalón y zapatos del mismo color, tapabocas o estilo pañoleta ganster del mismo color de la banda, guantes. con posibilidad de qué computadores con menos rendimiento puedan jugar en servidores con personajes más simples todavía que ni siquiera tengan una cara ni manos de color piel 
 Debe correr en una tostadora. Si no corre en un celular del 2019, es basura. Si corre ahí, corre en 1000.
+
+Manejo de carros y motos, vehículos fluidos, camionetas y carros con torretas. 
 
 2. EL CORE LOOP QUE NADIE TIENE: RESPAWN INSTANTÁNEO, GUERRA CONTINUA
 CORRECCIÓN FUNDAMENTAL: Si mueres, NO te vas. NO esperas 10 segundos.
