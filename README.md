@@ -2,7 +2,7 @@
 
 **Fundador:** Samuel Morales Quintero (Samuel-TKG) - Medellín, Agosto 2026  
 **Licencia:** AGPL-3.0 - Proyecto Inmortal Open Source - Prior Art  
-**Objetivo:** 1000+ Jugadores Online | Estilo GTA San Andreas | Low-Optimizado  
+**Objetivo:** 1000+ Jugadores Online | Estilo GTA San Andreas | Low-Poly Optimizado  
 
 ---
 
