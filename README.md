@@ -44,7 +44,7 @@ El mapa está diseñado con una estructura modular que permite una **expansión 
 ### La Policía (Facción de Élite Escalable)
 * **Población Controlada:** Ocupa un máximo fijo del 50% de la población del servidor, dividida entre las ciudades con una Gobernación / Capital Policial fija en el centro.
 * **Persecución Progresiva:** Si un miembro roba un banco, la policía persigue inicialmente solo a ese individuo; si logra escapar a su base con el botín y lo deposita allí, la persecución escala a toda la banda, pero si logra guardarlo por un cajero a du cuenta bancaria, es suyo. 
-* **Siempre tienen armas y si conquistan más territorios desbloquean mejoras de Armas más poderosas, helicópteros, jets de guerra y tanques blindados. 
+* **Siempre tienen armas:**Si conquistan y mantienen más territorios desbloquean mejoras de Armas más poderosas, helicópteros, jets de guerra y tanques blindados. 
 
 * **Sistema de Expulsión Épico:** Si las bandas logran limpiar de policías una ciudad, la policía **no desaparece**: se repliega y concentra en las ciudades restantes, haciéndo más fuerte a la policía en las demás ciudades y la banda se vuelve muy fuerte, con mucho dinero. Si las bandas logran expulsar a la policía de las 5 ciudades, esta es exiliada al borde del mapa con equipamiento básico, obligándolos a reconquistar el terreno a pie.
 
