@@ -8,7 +8,7 @@
 
 ## 1. Manifiesto: Optimización Total, Cero Basura
 Este proyecto nace bajo la premisa de rechazar el bloatware visual de la industria actual. 
-* **Cero partículas innecesarias:** Una explosión es un **punto de luz amarillo**. El cerebro procesa el impacto al instante; el humo, las chispas masivas y los escombros flotantes solo queman FPS.
+* **Cero partículas innecesarias:** Una explosión y muerte son **puntos de luz amarillos**. El cerebro procesa el impacto al instante; el humo, las chispas masivas y los escombros flotantes solo queman FPS.
 * **Geometría Funcional:** Si un elemento no sirve para pelear, conquistar o moverse, no existe. Cero mochilas o accesorios de relleno.
 * **Modelos Legibles (Modo Alien y Progresivo):** Personajes flaquitos y limpios. Cada banda lleva un color fijo e inconfundible (gorra, buzo, pantalón, zapatos, tapabocas/pañoleta gánster y guantes del mismo tono). Los equipos de menores recursos pueden usar versiones puramente sólidas sin texturas ni detalles de piel, maximizando el rendimiento del GPU Instancing.
 * **Requisito de Rendimiento:** Debe correr fluidamente en una "tostadora" o en un celular de gama baja de 2019. Si corre ahí, soporta los 1,000 jugadores en red.
