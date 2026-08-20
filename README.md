@@ -37,22 +37,26 @@ El mapa está diseñado con una estructura modular que permite una **expansión 
 ## 4. Facciones, Bandas y Sistema Policial Dinámico
 
 ### Bandas y Respawn Táctico
-* **Casas Capitales Móviles:** Las bandas pueden reubicar su casa de respawn cada 60 segundos por estrategia táctica y en cada territorio nuevo conquistado, a donde quieran, no está limitada al barrio inicial. La policía no puede hacerlo ya que tiene su gran edifico en la mitad de cada ciudad Con todas sus armas, carros, camionetasby motos también helicópteros y aviones de guerra pequeños pero poderosos. La idea es introducir aviones grandes que si la policía o una banda logran comprar o se lo roban a la policía, muchos jugadores puedan viajar hacia el aeropuerto de cualquier ciudad. 
+* **Casas Capitales Móviles:** Las bandas pueden reubicar su casa de respawn cada 60 segundos por estrategia táctica y en cada territorio nuevo conquistado, a donde quieran, no está limitada al barrio inicial. La policía no puede hacerlo ya que tiene su gran edifico en la mitad de cada ciudad Con todas sus armas, carros, camionetas y motos también helicópteros y aviones de guerra pequeños pero poderosos. La idea es introducir aviones grandes que si la policía o una banda logran comprar o se lo roban a la policía, muchos jugadores puedan viajar hacia el aeropuerto de cualquier ciudad. 
 
 * **Destrucción de Facciones:** Si una banda pierde su capital, todo su dinero acumulado pasa a manos de la facción vencedora. Los miembros derrotados tienen un margen de 10 segundos para elegir un nuevo bando. Si pasa el tiempo sin elegir, el sistema los reasigna automáticamente a la policía o a otra banda con espacio.
 
 ### La Policía (Facción de Élite Escalable)
 * **Población Controlada:** Ocupa un máximo fijo del 50% de la población del servidor, dividida entre las ciudades con una Gobernación / Capital Policial fija en el centro.
-* **Persecución Progresiva:** Si un miembro roba un banco, la policía persigue inicialmente solo a ese individuo; si logra escapar a su base con el botín, la persecución escala a toda la banda.
-* **Sistema de Expulsión Épico:** Si las bandas logran limpiar de policías una ciudad, la policía **no desaparece**: se repliega y concentra en las ciudades restantes, haciéndolas más peligrosas. Si las bandas logran expulsar a la policía de las 5 ciudades, esta es exiliada a los pueblitos del borde del mapa con equipamiento básico, obligándolos a reconquistar el terreno a pie.
+* **Persecución Progresiva:** Si un miembro roba un banco, la policía persigue inicialmente solo a ese individuo; si logra escapar a su base con el botín y lo deposita allí, la persecución escala a toda la banda, pero si logra guardarlo por un cajero a du cuenta bancaria, es suyo. 
+* **Siempre tienen armas y si conquistan más territorios desbloquean mejoras de Armas más poderosas, helicópteros, jets de guerra y tanques blindados. 
+
+* **Sistema de Expulsión Épico:** Si las bandas logran limpiar de policías una ciudad, la policía **no desaparece**: se repliega y concentra en las ciudades restantes, haciéndo más fuerte a la policía en las demás ciudades y la banda se vuelve muy fuerte, con mucho dinero. Si las bandas logran expulsar a la policía de las 5 ciudades, esta es exiliada al borde del mapa con equipamiento básico, obligándolos a reconquistar el terreno a pie.
 
 ---
 
 ## 5. Economía, Territorios y Logística
 * **Conquista de Barrios:** Cada barrio tiene un punto central. Mantenerse allí durante 60 segundos otorga el control del territorio (tanto para bandas como para la policía).
-* **Recolección de Dinero:** 
-  * Manual (ir a pie).
-  * Automatizada mediante unidades robóticas: carritos pequeños (rápidos pero frágiles), camionetas blindadas (lentas pero resistentes) o robots armados (defensivos pero de mayor costo y menor velocidad).
+* **Recolección de Dinero:** con Elección 
+  * Manual (lo hacen los jugadores) 
+  * Automatizada mediante unidades robóticas: carritos pequeños (rápidos pero frágiles), camionetas blindadas (lentas pero resistentes) o con robots armados (defensivos pero de mayor costo y menor velocidad. 
+* O personalizable a carro rápido con hombres armados, o en motos, y todos pueden ir a recolectar dinero de sus barrios. 
+
 * **Asaltos a Bancos con Alerta Global:** Al iniciar un robo bancario, una notificación aparece en todo el servidor (*"Banda X asaltando el banco central"*), provocando que las fuerzas policiales y bandas rivales converjan en el lugar.
 * **Capital Privado vs. Dinero de Banda:** Cada usuario posee dinero de facción y dinero privado. A través de cajeros automáticos o bancos, se puede consignar dinero de forma segura para protegerlo en caso de que la banda caiga en bancarrota, permitiendo comprar equipamiento personal de forma independiente.
 
