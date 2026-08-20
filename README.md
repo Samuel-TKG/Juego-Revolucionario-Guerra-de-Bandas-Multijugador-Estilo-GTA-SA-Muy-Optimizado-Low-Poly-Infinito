@@ -98,3 +98,60 @@ ESTO ES PRIOR ART - PUBLICADO AGOSTO 2026 - SAMUEL-TKG
 
 Este documento prueba que la idea completa de punto amarillo, fajos fijos, 12 carriles, 5 ciudades, policía que se repliega y servidores infinitos es de Samuel-TKG antes que cualquier empresa.
 
+# Proyecto de Juego Multijugador Masivo de Mundo Abierto en Bajo Poligonaje (Low-Poly)
+
+## Resumen Ejecutivo
+Un juego multijugador de acción en mundo abierto diseñado para un rendimiento extremo y alta densidad de jugadores (desde 100 en hardware de bajos recursos hasta más de 1,000 jugadores en entornos dedicados). Inspirado en la escala de GTA San Andreas y la estética de bajo poligonaje (low-poly), el juego prioriza la claridad visual táctica, la optimización de red y la jugabilidad de respuesta instantánea por encima del exceso gráfico.
+
+---
+
+## Fundamentos Técnicos y Reglas de Optimización
+
+### 1. Efectos Visuales Minimalistas y Ciclo de Destrucción
+* **Eliminación instantánea de entidades:** Los vehículos y jugadores no dejan escombros persistentes, estelas de humo ni animaciones largas de fuego al ser destruidos.
+* **Vaporización en punto de luz:** Al ser destruidos o morir, las entidades se encogen instantáneamente hasta convertirse en un punto o estrella de luz pequeña y temporal, desapareciendo de inmediato.
+* **Cero sobrecarga de colisiones:** Los elementos destruidos dejan de existir en la memoria, manteniendo en cero los cálculos de colisión en la CPU/GPU para los objetos inactivos.
+
+### 2. Reducción de Interfaz (UI) y Sobreimpresión (Overdraw)
+* **Sin nombres flotantes:** Los nombres de los jugadores sobre las cabezas se eliminan por completo. Esto ahorra pasadas sustanciales de renderizado de interfaz (overdraw) y evita la saturación visual en pantalla cuando cientos de jugadores se alinean.
+* **Identificación visual instantánea:** Los colores de las facciones reemplazan por completo los indicadores de interfaz para una toma de decisiones de combate sin latencia.
+
+### 3. Escalado Progresivo de Recursos (Niveles de Hardware)
+* **Nivel de recursos bajos (Modo Alien):** Modelos renderizados con colores puros y sólidos (una sola pasada de material/malla) y cero texturas para maximizar el rendimiento de la VRAM y la instanciación de la GPU.
+* **Nivel Medio/Alto:** Los modelos incorporan tonos de piel expuestos (cara/manos) manteniendo atuendos 100% del color de la facción (gorra, camisa, pantalón, zapatos).
+
+---
+
+## Diseño de Jugabilidad e Identidad Visual
+
+### 1. Uniformidad de Facciones
+* **Colores de facción fijos:** Cada miembro de una facción viste exactamente el mismo esquema de color (ej. todos amarillos, todos morados, todos azules).
+* **NPCs/Civiles neutrales:** Las entidades que no son jugadores (policías, ciudadanos) visten combinaciones de ropa neutrales (ej. camisa naranja con pantalón negro) para distinguirse de inmediato como objetivos que no pertenecen a las facciones.
+* **Vehículos:** Los vehículos de las facciones siguen esquemas de colores sólidos o característicos idénticos.
+
+### 2. Caída de Objetos y Botín (Loot)
+* **Colocación física en el suelo:** Los jugadores derrotados tiran las armas y el dinero directamente planos sobre el suelo.
+* **Recursos estáticos:** Las caídas permanecen estáticas sin animaciones de flotación o rotación para evitar ciclos de CPU innecesarios.
+
+---
+
+## Arquitectura del Mapa del Mundo
+
+* **5 Islas y ciudades conectadas:** Masas de tierra distintas conectadas por pueblos y zonas rurales circundantes.
+* **Autopista central principal:** Una autopista central de 12 carriles que conecta todas las zonas urbanas principales, diseñada específicamente para encuentros masivos de vehículos y combate.
+
+---
+
+## Hoja de Ruta del Proyecto
+
+### Fase 1: Núcleo de Un Jugador (Base Offline)
+- [ ] Implementar el movimiento del jugador, físicas de motocicletas basadas en vectores y mecánicas en tercera/primera persona en el motor Godot.
+- [ ] Desarrollar una IA básica para la respuesta policial y las interacciones con civiles.
+- [ ] Construir mecánicas de economía local (robo de dinero en efectivo, compras en tiendas y cajeros automáticos interactivos conectados a archivos de bases de datos locales).
+
+### Fase 2: Red y Multijugador Escalable
+- [ ] Integrar protocolos de red UDP ligeros.
+- [ ] Implementar filtrado del lado del servidor para grupos de jugadores de alta densidad en la autopista de 12 carriles.
+- [ ] Realizar pruebas de estrés de rendimiento en entornos de hardware de doble núcleo de bajos recursos.
+
+
