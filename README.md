@@ -17,7 +17,7 @@ Este proyecto nace bajo la premisa de rechazar el bloatware visual de la industr
 
 ## 2. Core Loop: Guerra Continua y Respawn Instantáneo
 * **Cero Esperas:** Si mueres, **no hay pantallas de carga ni tiempos muertos**. 
-* **Respawn Inmediato:** Te abaten en medio de la refriega, apareces instantáneamente en tu casa capital y vuelves al combate. La guerra es infinita y constante. La capital se puede mover a otros territorios cada 60 segundos, la policía no puede hacerlo ya que tiene su ran edifico en la mitad de cada ciudad. 
+* **Respawn Inmediato:** Te abaten en medio de la refriega, apareces instantáneamente en tu casa capital y vuelves al combate. La guerra es infinita y constante. La capital se puede mover a otros territorios cada 60 segundos, la policía no puede hacerlo ya que tiene su gran edifico en la mitad de cada ciudad. 
 
 ---
 
