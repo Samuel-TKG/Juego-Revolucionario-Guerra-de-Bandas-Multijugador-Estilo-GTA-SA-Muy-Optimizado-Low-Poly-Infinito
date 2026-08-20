@@ -37,7 +37,7 @@ El mapa está diseñado con una estructura modular que permite una **expansión 
 ## 4. Facciones, Bandas y Sistema Policial Dinámico
 
 ### Bandas y Respawn Táctico
-* **Casas Capitales Móviles:** Las bandas pueden reubicar su casa de respawn cada 60 segundos por estrategia táctica. La policía no puede hacerlo ya que tiene su gran edifico en la mitad de cada ciudad.  
+* **Casas Capitales Móviles:** Las bandas pueden reubicar su casa de respawn cada 60 segundos por estrategia táctica y en cada territorio nuevo conquistado, a donde quieran, no está limitada al barrio inicial. La policía no puede hacerlo ya que tiene su gran edifico en la mitad de cada ciudad Con todas sus armas, carros, camionetasby motos también helicópteros y aviones de guerra pequeños pero poderosos. La idea es introducir aviones grandes que si la policía o una banda logran comprar o se lo roban a la policía, muchos jugadores puedan viajar hacia el aeropuerto de cualquier ciudad. 
 
 * **Destrucción de Facciones:** Si una banda pierde su capital, todo su dinero acumulado pasa a manos de la facción vencedora. Los miembros derrotados tienen un margen de 10 segundos para elegir un nuevo bando. Si pasa el tiempo sin elegir, el sistema los reasigna automáticamente a la policía o a otra banda con espacio.
 
