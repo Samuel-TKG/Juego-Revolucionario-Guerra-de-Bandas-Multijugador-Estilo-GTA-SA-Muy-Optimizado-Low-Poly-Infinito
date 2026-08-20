@@ -22,7 +22,7 @@ Este proyecto nace bajo la premisa de rechazar el bloatware visual de la industr
 ---
 
 ## 3. Arquitectura del Mundo y Escalabilidad Infinita
-El mapa está diseñado con una estructura modular que permite una **expansión infinita**, donde la cantidad de ciudades y jugadores depende exclusivamente de la capacidad del hardware (tanto en PC como en Android):
+El mapa está diseñado con una estructura modular que permite una **expansión infinita**, donde la cantidad de ciudades y jugadores depende exclusivamente de la capacidad del hardware (tanto en PCs como en Celulares):
 
 * **Mapa Base (Estándar):** 5 Grandes Ciudades estilo *GTA San Andreas* (4 ubicadas en las esquinas del mapa y 1 central), interconectadas por una red de calles de 4 carriles y zonas rurales con pueblitos de bajo poligonaje (aproximadamente 100 polígonos por casa).
 * **La Autopista de 12 Carriles:** El eje central que une las zonas urbanas. Es la zona de guerra principal para vehículos rápidos (carros, motos y camionetas con torretas), sin semáforos y con tráfico masivo de colores.
